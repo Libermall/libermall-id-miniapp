@@ -6,7 +6,6 @@ If you discover a security issue in the Libermall ID Mini App **do not open a pu
 
 | Channel | Use it for |
 |---|---|
-| **Email**: [`security@libermall.com`](mailto:security@libermall.com) | Most reports. PGP key on request. |
 | **GitHub Security Advisory** | Private coordinated disclosure via the *Security* tab |
 | **Telegram** to [@LibermallIDbot](https://t.me/LibermallIDbot) → `/security` | Quick disclosure with screenshots |
 
